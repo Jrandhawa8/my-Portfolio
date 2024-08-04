@@ -1,0 +1,13 @@
+body {
+    font-family: Open Sans, sans-serif;
+}
+header {
+    background-color: #f8f9fa; /* Light gray background */
+    color: #000; /* Black text */
+}
+h1, .lead {
+    font-weight: bold; /* Bold text */
+}
+.card {
+    margin-bottom: 20px;
+}
